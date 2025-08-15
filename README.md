@@ -21,7 +21,7 @@ A pose annotation tool for labeling keypoints in images (e.g., human joints, ani
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Poseek_Annotation.git
+git clone https://github.com/hsuan9027/Poseek_Annotation.git
 cd Poseek_Annotation
 ```
 
