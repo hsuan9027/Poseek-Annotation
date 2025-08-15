@@ -1,0 +1,256 @@
+Mouse Face:
+  name: Mouse Face
+  bodyparts:
+  - pupilM
+  - pupilL
+  - pupilU
+  - pupilD
+  - pupilLU
+  - pupilRD
+  - pupilRU
+  - pupilLD
+  - eyeM
+  - eyeL
+  - eyeU
+  - eyeD
+  - earD
+  - earM
+  - earU
+  - earL
+  - earR
+  - noseU
+  - noseD
+  - noseMU
+  - noseL
+  - noseMD
+  - mouthM
+  - mouthR
+  - mouthL
+  - whisker1O
+  - whisker1M
+  - whisker1L
+  - whisker1E
+  - whisker2O
+  - whisker2M
+  - whisker2L
+  - whisker2E
+  - whisker3O
+  - whisker3M
+  - whisker3L
+  - whisker3E
+  connections:
+  - [0, 1]
+Mouse Full Body:
+  name: Mouse Full Body
+  bodyparts:
+  - nose
+  - neck
+  - body1
+  - body2
+  - body3
+  - tail
+  - LeftEar1
+  - LeftEar2
+  - RightEar1
+  - RightEar2
+  - Front Left Upper Arm1
+  - Front Left Upper Arm2
+  - Front Left Lower Arm1
+  - Front Left Lower Arm2
+  - Front Right Upper Arm1
+  - Front Right Upper Arm2
+  - Front Right Lower Arm1
+  - Front Right Lower Arm2
+  - Back Left Upper Leg1
+  - Back Left Upper Leg2
+  - Back Left Lower Leg1
+  - Back Left Lower Leg2
+  - Back Right Upper Leg1
+  - Back Right Upper Leg2
+  - Back Right Lower Leg1
+  - Back Right Lower Leg2
+  connections:
+  - [0, 1]
+  - [1, 2]
+  - [2, 3]
+  - [3, 4]
+  - [4, 5]
+  - [1, 6]
+  - [6, 7]
+  - [1, 8]
+  - [8, 9]
+  - [2, 10]
+  - [10, 11]
+  - [11, 12]
+  - [12, 13]
+  - [2, 14]
+  - [14, 15]
+  - [15, 16]
+  - [16, 17]
+  - [4, 18]
+  - [18, 19]
+  - [19, 20]
+  - [20, 21]
+  - [4, 22]
+  - [22, 23]
+  - [23, 24]
+  - [24, 25]
+  - [1, 8]
+Mouse Face 2:
+  name: Mouse Face 2
+  bodyparts:
+  - pupilM
+  - pupilL
+  - pupilU
+  - pupilD
+  - pupilLU
+  - pupilRD
+  - pupilRU
+  - pupilLD
+  - eyeM
+  - eyeL
+  - eyeU
+  - eyeD
+  - earD
+  - earM
+  - earU
+  - earL
+  - earR
+  - noseU
+  - noseD
+  - noseMU
+  - noseL
+  - noseMD
+  - mouthM
+  - mouthR
+  - mouthL
+  - whisker1O
+  - whisker1M
+  - whisker1L
+  - whisker1E
+  - whisker2O
+  - whisker2M
+  - whisker2L
+  - whisker2E
+  - whisker3O
+  - whisker3M
+  - whisker3L
+  - whisker3E
+  connections:
+  - [0, 1]
+Mouse Full Body 2:
+  name: Mouse Full Body 2
+  bodyparts:
+  - nose
+  - Left Eye
+  - Right Eye
+  - LeftEar1
+  - LeftEar2
+  - RightEar1
+  - RightEar2
+  - neck
+  - body1
+  - body2
+  - body3
+  - tail
+  - tail2
+  - tail3
+  - tail4
+  - Front Left 1
+  - Front Left 2
+  - Front Right 1
+  - Front Right 2
+  - Back Left 1
+  - Back Left 2
+  - Back Right 1
+  - Back Right 2
+  connections:
+  - [0, 1]
+  - [0, 2]
+  - [1, 2]
+  - [1, 3]
+  - [4, 3]
+  - [2, 5]
+  - [6, 5]
+  - [7, 5]
+  - [7, 3]
+  - [7, 8]
+  - [9, 8]
+  - [9, 10]
+  - [11, 10]
+  - [11, 12]
+  - [13, 12]
+  - [13, 14]
+  - [8, 15]
+  - [8, 17]
+  - [20, 19]
+  - [10, 19]
+  - [10, 21]
+  - [22, 21]
+  - [15, 16]
+  - [17, 18]
+Mouse Full Body 3:
+  name: Mouse Full Body 3
+  bodyparts:
+  - nose
+  - Left Eye
+  - Right Eye
+  - neck
+  - body1
+  - body2
+  - body3
+  - tail
+  - tail2
+  - tail3
+  - LeftEar1
+  - LeftEar2
+  - RightEar1
+  - RightEar2
+  - Front Left Upper Arm1
+  - Front Left Upper Arm2
+  - Front Left Lower Arm1
+  - Front Left Lower Arm2
+  - Front Right Upper Arm1
+  - Front Right Upper Arm2
+  - Front Right Lower Arm1
+  - Front Right Lower Arm2
+  - Back Left Upper Leg1
+  - Back Left Upper Leg2
+  - Back Left Lower Leg1
+  - Back Left Lower Leg2
+  - Back Right Upper Leg1
+  - Back Right Upper Leg2
+  - Back Right Lower Leg1
+  - Back Right Lower Leg2
+  connections:
+  - [0, 1]
+  - [0, 2]
+  - [1, 2]
+  - [3, 4]
+  - [5, 4]
+  - [5, 6]
+  - [7, 6]
+  - [9, 8]
+  - [7, 8]
+  - [10, 3]
+  - [10, 11]
+  - [12, 3]
+  - [12, 13]
+  - [4, 14]
+  - [15, 14]
+  - [15, 16]
+  - [17, 16]
+  - [4, 18]
+  - [19, 18]
+  - [19, 20]
+  - [21, 20]
+  - [6, 22]
+  - [23, 22]
+  - [23, 24]
+  - [6, 26]
+  - [27, 26]
+  - [27, 28]
+  - [29, 28]
+  - [1, 10]
+  - [2, 12]
+  - [25, 24]

@@ -1,0 +1,46 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual Environment
+env/
+venv/
+.env
+.venv
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Claude
+.claude
+*.claude
+.claude_artifacts/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
